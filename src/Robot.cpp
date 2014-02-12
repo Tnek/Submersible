@@ -8,6 +8,7 @@
 
 void setup()
 {
+    init_movement();
     init_output();
     init_sensors();
 }
