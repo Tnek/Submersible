@@ -5,6 +5,7 @@
  * human-readable form.
  */
 
+#include <Arduino.h>
 #include "Output.h"
 
 void init_output(void)
